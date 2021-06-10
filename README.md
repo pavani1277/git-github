@@ -1,2 +1,2 @@
 # git-github
-my first repository
+my first repository of github
